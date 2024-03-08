@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;300;400;600&display=swap");
+
+.App {
+  font-family: "Work Sans", sans-serif;
+  text-align: center;
+  background-color: #fcd34d;
+  height: 180vh;
+}
+
+.header {
+  padding-top: 1rem;
+  font-size: 2.5rem;
+}
+
+input {
+  width: 60%;
+  padding: 1rem;
+  border: solid 4px;
+  border-radius: 0.5rem;
+}
+
+.displayEmojis {
+  padding: 1rem;
+  font-size: 2rem;
+  margin: 1rem 0rem;
+  cursor: pointer;
+}
+
+.meaning {
+  padding: 2rem;
+  font-size: x-large;
+}
+
+.dataHeader {
+  font-weight: normal;
+  font-size: 1.3rem;
+}
+
+.para {
+  font-size: 1.3rem;
+}
+
+.divDisplayEmoji {
+  width: 80%;
+  margin: auto;
+}
